@@ -1,7 +1,7 @@
 // ****stack and heap memory*****
 //stack(primitive)=>copy of original=> similar to call by value
 //heap(non-primitive)=>reference to original value=> call by reference
-
+//non-primitive includes manily array, functions and objects
 let myName="monidipa"
 let anotherName=myName  //a copy is given
 anotherName= "Mahi"
